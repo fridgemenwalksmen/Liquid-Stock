@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="Backend Form/Backend Form.csproj" />
+</Solution>
