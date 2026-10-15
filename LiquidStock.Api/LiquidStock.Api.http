@@ -1,0 +1,6 @@
+@LiquidStock.Api_HostAddress = http://localhost:5028
+
+GET {{LiquidStock.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
